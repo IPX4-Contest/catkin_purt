@@ -10,3 +10,6 @@
 [submodule "src/mavros"]
 	path = mavros
 	url = https://github.com/mavlink/mavros.git
+[submodule "intel_avoidance"]
+	path = intel_avoidance
+	url = git@github.com:IPX4-Contest/intel_avoidance.git
